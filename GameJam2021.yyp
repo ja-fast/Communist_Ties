@@ -25,14 +25,10 @@
     {"id":{"name":"rm_gameover","path":"rooms/rm_gameover/rm_gameover.yy",},"order":3,},
     {"id":{"name":"spr_track_finish","path":"sprites/spr_track_finish/spr_track_finish.yy",},"order":1,},
     {"id":{"name":"spr_runner_1","path":"sprites/spr_runner_1/spr_runner_1.yy",},"order":0,},
-<<<<<<< HEAD
     {"id":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},"order":1,},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},"order":0,},
-=======
     {"id":{"name":"spr_runner_1_jump","path":"sprites/spr_runner_1_jump/spr_runner_1_jump.yy",},"order":2,},
     {"id":{"name":"msk_interact","path":"sprites/msk_interact/msk_interact.yy",},"order":2,},
-    {"id":{"name":"room0","path":"rooms/room0/room0.yy",},"order":0,},
->>>>>>> master
   ],
   "Options": [
     {"name":"Main","path":"options/main/options_main.yy",},
