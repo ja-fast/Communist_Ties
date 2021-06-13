@@ -109,7 +109,6 @@
   "creationCodeFile": "",
   "inheritCode": false,
   "instanceCreationOrder": [
-<<<<<<< HEAD:rooms/rm_game/rm_game.yy
     {"name":"inst_26B03B16","path":"rooms/rm_game/rm_game.yy",},
     {"name":"inst_281FC740","path":"rooms/rm_game/rm_game.yy",},
     {"name":"inst_1C50B8BE","path":"rooms/rm_game/rm_game.yy",},
@@ -285,7 +284,6 @@
     {"name":"inst_77F2608C","path":"rooms/room0/room0.yy",},
     {"name":"inst_4F2D8C9B","path":"rooms/room0/room0.yy",},
     {"name":"inst_136A582B","path":"rooms/room0/room0.yy",},
->>>>>>> master:rooms/room0/room0.yy
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
